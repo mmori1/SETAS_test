@@ -1,0 +1,1 @@
+Time Fishery AvgCatchSize TotLanding TotNumCaught TotDiscards GearChange DiscardChange TEPkills HabImpact TotEffort TotCPUE SocialAccept GearConflict SpComp_Evenness mgmtStability mgmtAccess mgmtCost 1stindx
