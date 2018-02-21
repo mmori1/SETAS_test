@@ -1013,7 +1013,7 @@
     <Attribute AttributeName="NumAgeClassSize" AttributeValue="1"/>
     <Attribute AttributeName="NumStocks" AttributeValue="1"/>
     <Attribute AttributeName="VerticallyMigrates" AttributeValue="0"/>
-    <Attribute AttributeName="HorizontallyMigrates" AttributeValue="0"/>
+    <Attribute AttributeName="HorizontallyMigrates" AttributeValue="1"/>
     <Attribute AttributeName="IsFished" AttributeValue="1"/>
     <Attribute AttributeName="IsImpacted" AttributeValue="1"/>
     <Attribute AttributeName="IsTAC" AttributeValue="1"/>

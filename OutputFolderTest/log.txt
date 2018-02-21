@@ -1,5 +1,5 @@
 #
-#Atlantis2 Updated to Version 6104M
+#Atlantis2 Updated to Version 6262M
 #
 #
 #
@@ -7,7 +7,7 @@
 #
 #
 #
-#Atlantis SVN Last Change Date 2017-01-17 16:22:37 +1100 (Tue, 17 Jan 2017)
+#Atlantis SVN Last Change Date 2017-11-29 16:28:29 +1100 (Wed, 29 Nov 2017)
 
 # Log file for run of Atlantis - only ecological errors and important events are recorded here #
 # Key to indices used in Atlantis, which may appear in logged errors here:

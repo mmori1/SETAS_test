@@ -5,6 +5,8 @@ flagecon_on        0   # Flag showing whether want economics loaded and submodel
 flag_fisheries_on  1  # Flag showing whether want fisheries loaded and submodel run (1) or not (0)
 flag_skip_biol     0   # Flag showing whether want biological model run (1) or not (0 - only used when debugging fisheries)
 flag_skip_phys     0   # Flag showing whether want biological model run (0) or not (1 - only used when debugging fisheries)
+flag_old_embryo_init  0  # This flag is to allow legacy models to have the same starting conditions under the new code as they did in older version. All new models should set this parameter to 0, but legacy models trying to reproduce past model runs should set this value to 1.
+flag_replicate_old_calendar  0  #This flag specifically allows for legacy models and the influence of environment on the distribution of recruits to be replicated in the newer code. It is recommended that all new models have this set to 0.
 
 debug_it	0
 checkbox      0        # Give detailed logged output for this box

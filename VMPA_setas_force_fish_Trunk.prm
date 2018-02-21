@@ -47,6 +47,7 @@ inputs_tout 10 day
 # Recruitment_time_series
 
 # Recruitment_enviro_forcing
+# Recruitment_enviro_forcing inputs/larval/recdevs.ts
 
 #############################################
 # Historical catch lists - nCatchts is the number of time series to be loaded and
